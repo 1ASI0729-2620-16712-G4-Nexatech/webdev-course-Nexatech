@@ -1,0 +1,95 @@
+/* ================================= */
+/* TÍTULO PRINCIPAL                  */
+/* ================================= */
+
+/*
+    Cambia el color del título.
+*/
+
+h1 {
+    color: __________________;
+}
+
+
+/*
+    Centra el texto del título.
+*/
+
+h1 {
+    color: __________________;
+    text-align: __________________;
+}
+
+
+/*
+    Añade espacio dentro del título.
+*/
+
+h1 {
+    color: __________________;
+    text-align: __________________;
+    padding: __________________;
+}
+
+
+/* ================================= */
+/* SECCIONES                         */
+/* ================================= */
+
+/*
+    Cambia el color de fondo de los
+    encabezados h2.
+*/
+
+h2 {
+    background-color: __________________;
+}
+
+
+/*
+    Añade un borde a los encabezados.
+*/
+
+h2 {
+    background-color: __________________;
+    border: __________________;
+}
+
+
+/*
+    Añade espacio dentro del encabezado.
+*/
+
+h2 {
+    background-color: __________________;
+    border: __________________;
+    padding: __________________;
+}
+
+
+/* ================================= */
+/* PÁRRAFOS                          */
+/* ================================= */
+
+/*
+    Añade espacio alrededor de los
+    párrafos.
+*/
+
+p {
+    margin: __________________;
+}
+
+
+/* ================================= */
+/* PÁGINA                            */
+/* ================================= */
+
+/*
+    Cambia el color de fondo de toda
+    la página.
+*/
+
+body {
+    background-color: __________________;
+}
