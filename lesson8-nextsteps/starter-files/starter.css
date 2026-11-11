@@ -1,0 +1,120 @@
+/*
+    ==================================================
+    🧪 MISIÓN: ENCUENTRA Y REPARA LOS ERRORES
+    ==================================================
+
+    No intentes corregir todo de una vez.
+
+    Cambia una cosa.
+    Mira el resultado.
+    Después continúa.
+
+    Recuerda:
+    selector {
+        propiedad: valor;
+    }
+*/
+
+
+/*
+    🔎 ERROR 1
+    El selector es correcto, pero revisa cuidadosamente
+    la propiedad y su valor.
+
+    ¿Qué debería ocurrir con el fondo de la página?
+*/
+
+body {
+    background-color #eef3f8;
+}
+
+
+/*
+    🔎 ERROR 2
+    Este selector debería afectar al título principal.
+
+    Revisa si está escrito correctamente.
+*/
+
+h {
+    color: #17365d;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    border: 3px solid #17365d;
+}
+
+
+/*
+    🔎 ERROR 3
+    El selector funciona, pero revisa el valor
+    utilizado para el color del texto.
+
+    ¿Es fácil de leer sobre el fondo?
+*/
+
+h2 {
+    background-color: #d6e4f0;
+    color: #d6e4f0;
+    padding: 12px;
+    border: 2px solid #5b9bd5;
+}
+
+
+/*
+    🔎 ERROR 4
+    Esta regla debería modificar los párrafos.
+
+    Revisa la escritura del selector.
+*/
+
+pp {
+    color: #333333;
+    font-size: 18px;
+    margin: 20px;
+}
+
+
+/*
+    🔎 ERROR 5
+    Esta regla tiene un problema de sintaxis.
+
+    Recuerda:
+    propiedad: valor;
+*/
+
+ul {
+    color #234f7d;
+}
+
+
+/*
+    🔎 ERROR 6
+    El estilo del enlace debería utilizar
+    una propiedad CSS que ya conocemos.
+
+    Revisa qué propiedad permite cambiar
+    el color del texto.
+*/
+
+a {
+    background-color: #8a2be2;
+}
+
+
+/*
+    🧪 EXPERIMENTO
+
+    Cuando hayas corregido los errores anteriores,
+    prueba modificar solamente una propiedad cada vez.
+
+    Por ejemplo:
+
+    h1 {
+        font-size: 50px;
+    }
+
+    Observa qué cambia en la página.
+
+    Después vuelve a probar con otro valor.
+*/
