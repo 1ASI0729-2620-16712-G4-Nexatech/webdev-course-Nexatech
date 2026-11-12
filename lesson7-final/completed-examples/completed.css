@@ -1,0 +1,83 @@
+/*
+    =========================================
+    ESTILOS GENERALES
+    =========================================
+
+    El fondo utiliza un color claro para
+    mantener una buena lectura del contenido.
+*/
+
+body {
+    background-color: #f4f1ea;
+}
+
+
+/*
+    =========================================
+    TÍTULO PRINCIPAL
+    =========================================
+
+    El título utiliza:
+    - un color oscuro para facilitar la lectura,
+    - un tamaño mayor para destacar,
+    - alineación centrada,
+    - padding para crear espacio interno,
+    - y un borde para diferenciarlo.
+*/
+
+h1 {
+    color: #3f5f3f;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    border: 3px solid #3f5f3f;
+}
+
+
+/*
+    =========================================
+    SUBTÍTULOS
+    =========================================
+
+    Todos los h2 utilizan una apariencia
+    consistente para que las diferentes
+    secciones sean fáciles de identificar.
+*/
+
+h2 {
+    background-color: #dce8d5;
+    color: #304a30;
+    padding: 12px;
+    border: 2px solid #7b9b6e;
+}
+
+
+/*
+    =========================================
+    PÁRRAFOS
+    =========================================
+
+    Los párrafos utilizan un tamaño cómodo
+    y espacio alrededor para evitar que todo
+    el contenido aparezca demasiado junto.
+*/
+
+p {
+    color: #333333;
+    font-size: 18px;
+    margin: 20px;
+}
+
+
+/*
+    =========================================
+    LISTA
+    =========================================
+
+    El color se mantiene relacionado con
+    la paleta utilizada en los encabezados.
+*/
+
+ul {
+    color: #405c40;
+}
