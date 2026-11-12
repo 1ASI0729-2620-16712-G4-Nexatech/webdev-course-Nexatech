@@ -28,7 +28,7 @@
 | 📚 **Prerrequisitos** | Ninguno |
 | 🛠️ **Herramientas para estudiantes** | Solo un navegador web |
 | 💻 **Editor principal** | CodePen |
-| 📂 **Repositorio** | [`webdev-course-PrimeFuel`](https://github.com/1ASI0729-2620-16712-G4-Nexatech/webdev-course-Nexatech) |
+| 📂 **Repositorio** | [`webdev-course-Nexatech`](https://github.com/1ASI0729-2620-16712-G4-Nexatech/webdev-course-Nexatech) |
 
 ---
 
@@ -94,7 +94,7 @@
 
 ---
 
-### Lección 7: Mejorando y organizando nuestra página (~4 minutos)
+### Lección 7: Mejorando y organizando nuestra página (~5 minutos)
 
 - **Descripción:** Revisa el proyecto y aprende pequeños cambios que pueden mejorar su claridad, apariencia y organización.
 - **Conclusiones clave:** Un sitio no solo debe funcionar, también debe ser claro, legible y consistente.
