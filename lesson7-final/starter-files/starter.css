@@ -1,0 +1,132 @@
+/*
+    =========================================
+    REVISIÓN DEL DISEÑO
+    =========================================
+
+    Revisa cada sección y completa o modifica
+    los valores para mejorar la apariencia
+    y legibilidad de la página.
+
+    Recuerda los conceptos que ya aprendimos:
+    - color
+    - background-color
+    - font-size
+    - margin
+    - padding
+    - border
+    - text-align
+*/
+
+
+/*
+    =========================================
+    FONDO DE LA PÁGINA
+    =========================================
+
+    Elige un color de fondo que permita
+    leer fácilmente el contenido.
+*/
+
+body {
+    background-color: __________________;
+}
+
+
+/*
+    =========================================
+    TÍTULO PRINCIPAL
+    =========================================
+
+    Revisa:
+    - ¿Tiene un color fácil de leer?
+    - ¿Tiene un tamaño adecuado?
+    - ¿Está bien alineado?
+    - ¿Tiene suficiente espacio?
+    - ¿Tiene un borde que ayude a destacarlo?
+*/
+
+h1 {
+    color: __________________;
+    font-size: __________________;
+    text-align: __________________;
+    padding: __________________;
+    border: __________________;
+}
+
+
+/*
+    =========================================
+    SUBTÍTULOS
+    =========================================
+
+    Los h2 deben permitir reconocer
+    rápidamente dónde comienza cada sección.
+
+    Prueba diferentes valores para:
+    - background-color
+    - color
+    - padding
+    - border
+*/
+
+h2 {
+    background-color: __________________;
+    color: __________________;
+    padding: __________________;
+    border: __________________;
+}
+
+
+/*
+    =========================================
+    PÁRRAFOS
+    =========================================
+
+    Revisa que el texto sea fácil de leer
+    y que exista suficiente espacio alrededor.
+
+    Recuerda que margin crea espacio
+    alrededor del elemento.
+*/
+
+p {
+    color: __________________;
+    font-size: __________________;
+    margin: __________________;
+}
+
+
+/*
+    =========================================
+    LISTA
+    =========================================
+
+    Comprueba que el color de la lista
+    combine con el resto de la página.
+
+    No necesitas cambiar todo.
+    Un pequeño ajuste puede ser suficiente.
+*/
+
+ul {
+    color: __________________;
+}
+
+
+/*
+    =========================================
+    REVISIÓN FINAL
+    =========================================
+
+    Después de completar los estilos,
+    mira la página en el navegador.
+
+    Pregúntate:
+
+    ¿Es fácil de leer?
+    ¿Los títulos destacan?
+    ¿Los colores combinan?
+    ¿Hay suficiente espacio?
+    ¿Las secciones se ven organizadas?
+    ¿Qué otro aporte añadirías?
+*/
