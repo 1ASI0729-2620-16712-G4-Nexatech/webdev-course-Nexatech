@@ -64,7 +64,7 @@
 
 ---
 
-### Lección 4: Introducción a CSS (~10 minutos)
+### Lección 4: Introducción a CSS (~11 minutos)
 
 - **Descripción:** Descubre cómo cambiar la apariencia de una página HTML utilizando CSS.
 - **Conclusiones clave:** CSS permite modificar colores, fuentes y otros aspectos visuales del contenido HTML.
@@ -104,7 +104,7 @@
 
 ---
 
-### Lección 8: Buenas prácticas y próximos pasos (~5 minutos)
+### Lección 8: Buenas prácticas y próximos pasos (~7 minutos)
 
 - **Descripción:** Aprende a reconocer errores comunes y descubre cómo continuar aprendiendo desarrollo web.
 - **Conclusiones clave:** Leer los mensajes de error, revisar la estructura HTML, comprobar los estilos y practicar constantemente son parte del aprendizaje.
