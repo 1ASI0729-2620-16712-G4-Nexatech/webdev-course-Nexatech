@@ -40,7 +40,7 @@
 - **Conclusiones clave:** Una página web combina contenido, estructura y presentación. HTML organiza el contenido y CSS controla su apariencia.
 - **Actividad:** Explorar una página web e identificar visualmente diferentes elementos.
 - **Empieza a programar:** Primer contacto con un editor web online. [CodePen](https://codepen.io/pen/) - Hola Mundo
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/pV23OqAHbJk)
 
 ---
 
@@ -50,7 +50,7 @@
 - **Conclusiones clave:** Uso de elementos como `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
 - **Conceptos principales:** Etiquetas, elementos y estructura básica de un documento HTML.
 - **Práctica:** Crear una página personal sencilla con un título, subtítulo y presentación. [CodePen](https://codepen.io/pen/) 👈 ¡Sin registro!
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/0zS62qObpYI)
 
 ---
 
@@ -60,7 +60,7 @@
 - **Conclusiones clave:** Uso de encabezados, párrafos, listas, imágenes y enlaces.
 - **Conceptos principales:** `<h1>`–`<h3>`, `<p>`, `<ul>`, `<ol>`, `<li>`, `<img>` y `<a>`.
 - **Práctica:** Añadir intereses, una imagen y enlaces a una página creada anteriormente. [CodePen](https://codepen.io/pen/) 👈 ¡Inicio inmediato!
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/R9c3mnZKnMw)
 
 ---
 
@@ -70,7 +70,7 @@
 - **Conclusiones clave:** CSS permite modificar colores, fuentes y otros aspectos visuales del contenido HTML.
 - **Conceptos principales:** Selectores, propiedades y valores.
 - **Práctica:** Aplicar colores, tamaños de texto y estilos básicos a una página HTML. [CodePen](https://codepen.io/pen/) 👈 ¡Sin registro!
-- **Enlace:** [Ver la lección]() 
+- **Enlace:** [Ver la lección](https://youtu.be/H21TPJ9Wb7g) 
 
 ---
 
@@ -80,7 +80,7 @@
 - **Conclusiones clave:** Uso de `margin`, `padding`, `border`, `background-color` y `text-align`.
 - **Conceptos principales:** Espaciado, bordes, fondos y organización visual.
 - **Práctica:** Convertir una sección de la página en una tarjeta de perfil visualmente organizada. [CodePen](https://codepen.io/pen/) 👈 ¡Empieza a crear tu estilo!
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/1dEw6Me8cUc)
 
 ---
 
@@ -90,7 +90,7 @@
 - **Conclusiones clave:** HTML proporciona la estructura y CSS permite presentar y organizar visualmente el contenido.
 - **Conceptos principales:** Estructura de una página, organización del contenido y aplicación conjunta de HTML y CSS.
 - **Proyecto:** Crear una página web personal, perfil, presentación de un personaje, hobby o tema de interés. [CodePen](https://codepen.io/pen/) 👈 ¡No necesitas instalar nada!
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/FMTo26E-ezA)
 
 ---
 
@@ -100,7 +100,7 @@
 - **Conclusiones clave:** Un sitio no solo debe funcionar, también debe ser claro, legible y consistente.
 - **Conceptos principales:** Organización del código, nombres claros, estructura coherente y revisión visual. [CodePen](https://codepen.io/pen/) 👈 ¡Guarda y comparte!
 - **Práctica:** Revisar y mejorar el proyecto final antes de compartirlo.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/HNvnfPvMtxA)
 
 ---
 
@@ -110,7 +110,7 @@
 - **Conclusiones clave:** Leer los mensajes de error, revisar la estructura HTML, comprobar los estilos y practicar constantemente son parte del aprendizaje.
 - **Consejos:** Mantén tu código organizado, prueba los cambios uno por uno y no tengas miedo de experimentar.
 - **Cierre:** Comparte tu proyecto final y continúa explorando HTML y CSS. [Envía tu creación](https://docs.google.com/forms/d/e/1FAIpQLSdYAPjbymBMl1kL4TJsnLbmmAbNY0uGUxgYOFF-tSYyCxMs7A/viewform)
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/nyxCtxy-oWE)
 
 ---
 
