@@ -1,0 +1,55 @@
+/* ================================= */
+/* TU PRIMERA REGLA CSS              */
+/* ================================= */
+
+/*
+    Selecciona el elemento h1
+    y cambia su color.
+*/
+
+h1 {
+    color: __________________;
+}
+
+
+/* ================================= */
+/* TAMAÑO DEL TÍTULO                 */
+/* ================================= */
+
+/*
+    Añade una propiedad para cambiar
+    el tamaño del h1.
+*/
+
+h1 {
+    color: __________________;
+    font-size: __________________;
+}
+
+
+/* ================================= */
+/* PÁRRAFOS                          */
+/* ================================= */
+
+/*
+    Selecciona los párrafos y cambia
+    su color.
+*/
+
+p {
+    color: __________________;
+}
+
+
+/* ================================= */
+/* FONDO DE LA PÁGINA                */
+/* ================================= */
+
+/*
+    Selecciona el body y cambia
+    el color de fondo.
+*/
+
+body {
+    background-color: __________________;
+}
